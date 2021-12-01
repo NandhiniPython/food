@@ -1,4 +1,4 @@
-# Food Image Classification
+# Food Image Classification Dataset
 
 Dataset for Multi-target image classification
 
@@ -11,3 +11,6 @@ This dataset contains a selected photographs of ready-to-consume food from diffe
 4. `green_leaves` : str [`present`,`not_present`] - `present` if there are green leaves and spinach, and `not_present` otherwise.
 
 Annotations are performed manually.
+
+`food_labels.jpg` explains data and class distribution with pie charts.
+![pie](https://raw.githubusercontent.com/RajkumarGalaxy/food/main/food_labels.jpg)
