@@ -13,4 +13,5 @@ This dataset contains a selected photographs of ready-to-consume food from diffe
 Annotations are performed manually.
 
 `food_labels.jpg` explains data and class distribution with pie charts.
-![pie](https://raw.githubusercontent.com/RajkumarGalaxy/food/main/food_labels.jpg)
+
+![pie](https://raw.githubusercontent.com/NandhiniPython/food/main/food_labels.jpg)
